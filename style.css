@@ -1,0 +1,30 @@
+body {
+    background-image: url("https://static.wikia.nocookie.net/soundeffects/images/b/b8/Love_Live%21_Sunshine%21%21_S1_Ep._1_Anime_Bus_Air_Brake_Hiss_Sound.gif/revision/latest?cb=20190429154041");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+* {
+    font-size: 130%;
+   }
+
+/* .ui-widget, .container {
+    margin: 45px 0 0 25px;
+} */
+
+/* 
+.getBusNumber{
+    background-color: #FBCEB1;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 30px;
+    cursor: pointer;
+} */
+
+
